@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of nifty projects
+description: A Collection of Projects I've Made
 nav: true
-display_categories: [fun]
+display_categories: [Automation, Software]
 horizontal: false
 ---
 

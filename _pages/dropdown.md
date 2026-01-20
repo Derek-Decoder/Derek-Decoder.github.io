@@ -1,6 +1,6 @@
 <!-- ---
 layout: page
-title: Example Submenu
+title: Works
 nav: true
 dropdown: true
 children:

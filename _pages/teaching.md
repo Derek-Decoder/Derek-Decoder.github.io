@@ -1,8 +1,8 @@
 <!-- ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Resources
+description: Resources for scripts, programs and XML/YAML I share in any of my blogs.
 nav: true
 ---
 

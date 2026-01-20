@@ -1,17 +1,20 @@
 ---
 layout: page
-title: Computer Vision
-description: Anything involving images
-img: assets/img/3.jpg
+title: SMB Client & Server Scripts
+description: This Involves Configuring SMB Clients & Servers
+img: assets/img/SMB_Image.png
 importance: 2
-category: fun
+category: Automation
 ---
 
-Every picture is worth 1,000 words. Well, in this case the thousands of words and many hours were put into these projects.
+# SMB
+This one was fun. SMB is a surprisingly universal network protocol with amazing configurability. 
 
-I have a list of computer vision projects with all the source code [here](https://github.com/SpencerPao/ComputerVision)
 
-More is to come. There are many applications that can be done. How exciting!
+## Why is SMB surprisingly universal? 
+Because, unlike many applications and networking protocols, SMB has no macOS or Linux alternative. It is the same for Windows, macOS, Linux, Android and iOS. Video streaming is even possible from server to client, which is amazing.
+
+Below is a list of Bash, PowerShell & Ansible Scripts I made with links to their repos down below:
 
 ---
 <div class="row">
@@ -35,16 +38,3 @@ More is to come. There are many applications that can be done. How exciting!
     Optical Character Recognition, Deep Q Networks & Reinforcement Learning, GANS
 </div>
 ---
-
-
-Can I call myself the next Pablo Picasso? Well, maybe my computer can come close to Picasso's greatness.
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      <a href = "https://youtu.be/pvihWoaoWIM">
-        {% include figure.html path="assets/img/A_Computer_Creates_Abstract_Art.png" title="A Computer Creates Abstract ARt" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-</div>
-<div class="caption">
-    I created art and I can't even draw a straight line!
-</div>

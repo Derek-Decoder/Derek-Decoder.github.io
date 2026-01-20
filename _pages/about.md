@@ -1,35 +1,34 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
-subtitle: <a href='https://github.com/SpencerPao'>Code</a> <a href='https://www.youtube.com/c/SpencerPaoHere'>Chill</a> <b> Imagine </b>
+subtitle: <a href='https://github.com/Derek-Decoder'>My Habitation,</a> and where I do <a href='https://www.linkedin.com/in/derek-nnaji/'>Business</a>
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   address: >
-    <p>Located in Virginia, USA</p>
+    <p>Located in Dubai, UAE</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello! My name is Spencer, and I absolutely love to combine data science capabilities with any type of industry. I love to create mini projects that explains or demonstrates how to use said application in your everyday life.
+Hi, my dear reader! My name is Derek. I am certainly a contrarian by nature, who is absolutely in love with software engineering and automation. I love to create holistic projects and do things once and for all (i.e., Automation).
 
-I am currently working at Booz Allen Hamilton as a Machine Learning Engineer with a focus on <b>Natural Language Processing </b> and <b>model deployment.</b>
+I am currently updating my digital presence as well as re-engineering all my <b>automation scripts</b> for <b>universal use</b> so that people who read my blog can benefit from them. 
 
-I also do pro-bono strategic consulting work with [Compass.](https://compassprobono.org/) I am currently assisting on a growth strategic proposal to a nonprofit firm.
+I also do freelancing at [Upwork](https://www.upwork.com/freelancers/~01ec2a30edf72547c5?mp_source=share) and [Behance](https://www.behance.net/dereknnaji). But, I would prefer if you would contact me directly via my [Gmail](mailto:dereknnaji@gmail.com) if you are in need of my services.
 
-Perhaps you found this website through my [YouTube Channel](https://www.youtube.com/c/SpencerPaoHere/)? If not, check it out! I have quite the video portfolio from finance to technological applications and theory accumulating there.
+Since you came all the way here to my website, might I interest you in my [blog?](/blog/:year/:title/) Or, perhaps, you might be interested in seeing my [projects?](/projects/)
 
-I am always looking for folks who are interested in aiding on ongoing or newly created projects.
-* Contact me at <b>business.inquiry.spao@gmail.com</b> if interested!
-* Some of the Ongoing works:
-  - Architecting cost effective and efficient code solutions
-  - Evaluating Crypto (finance + code)
-  - Creating Artwork with GANS (code)
-  - Automating the evaluation of public companies (finance + code)
-    - Explore and implement traditional theories of finance
-    - Explore and implement quantitative strategies of finance
+* <b>Some of my ongoing works:</b>
+  - Creating a series on SMB, DNS, DHCP & more on my Blog
+  - Making a tutorial for efficiently using PowerShell, Bash & Ansible on my Blog
+  - Creating an ERP/Inventory & Asset Management/Security Platform for Small Businesses
+  - Creating a few Simple Mobile Apps
+    - Creating a Local 2-Factor Auth Workflow
+    - Examining my code for security vulnerabilities
 
-If you have an idea and want to see if I'd be interested in helping out, please contact me!
+<b>If you need my help with anything, please contace me without hesitation!</b>
+* Contact me at <b>[dereknnaji@gmail.com](mailto:dereknnaji@gmail.com)</b> 
