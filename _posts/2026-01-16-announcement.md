@@ -3,6 +3,7 @@ layout: post
 title: The Creation of What Will Be a Grand Tech Blog.
 date: 2026-01-16 23:00:00-0000
 inline: false
+comments: true
 ---
 
 # The Greatest Blog Post I'll Ever Make
