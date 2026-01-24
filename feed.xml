@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://derek-decoder.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://derek-decoder.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2026-01-24T22:17:39+04:00</updated><id>https://derek-decoder.github.io//feed.xml</id><title type="html">blank</title><subtitle>My Website Where I Share Projects, Publications &amp; Blog Posts.
+</subtitle><entry><title type="html">The Creation of What Will Be a Grand Tech Blog.</title><link href="https://derek-decoder.github.io//blog/2026/announcement/" rel="alternate" type="text/html" title="The Creation of What Will Be a Grand Tech Blog." /><published>2026-01-17T03:00:00+04:00</published><updated>2026-01-17T03:00:00+04:00</updated><id>https://derek-decoder.github.io//blog/2026/announcement</id><content type="html" xml:base="https://derek-decoder.github.io//blog/2026/announcement/"><![CDATA[<h1 id="the-greatest-blog-post-ill-ever-make">The Greatest Blog Post I’ll Ever Make</h1>
+<p>Hi, world. I am Derek Nnaji, a System Administrator &amp; Automation Expert! And, this is my very first blog post, which is all about informing you, my dear reader, of what my blog is about and why it is worth your time.</p>
+
+<h2 id="the-purpose-of-this-blog">The Purpose of This Blog</h2>
+<p>I just want to simplify &amp; disseminate information related to the efficient execution of the tasks, roles &amp; responsibilities of IT Support, IT Services and System Administration &amp; Automation. <strong>So, I will be talking about stuff like IT Asset &amp; Services Management, How to Administer IT Systems, Scripting, Programming &amp; More.</strong></p>
+
+<h2 id="why-this-blog-is-worth-your-attention">Why This Blog is Worth Your Attention</h2>
+<p>I believe that true mastery involves <strong>Simplification.</strong> If I read something to teach me about how to execute a process, and I can’t understand the process, its intricacies, dependencies, and everything related to it, then I have wasted my time!</p>
+
+<p>Over here, we will do things my way. I won’t tell you how to connect to an smb server via a PowerShell script without talking to you about the need to hardcode stuff like demanding encryption and SMB3 from the server to even establish communication. Everything about me is holistic and thorough, with a proper emphasis on meeting Business and Security Requirements!</p>
+
+<h2 id="what-is-next">What is Next?</h2>
+<p><strong>Well, I will be on an Automation Marathon</strong>, going from discussing how to automate widely used Network Protocols (e.g., SMB, SSH, DNS) across Servers (Windows Server &amp; Linux) to system configuration (Ansible/Kubernetes) &amp; logging. <strong>I will also be talking about the Business Requirements Side of IT Support, Services and Administration</strong> (e.g., reports, documentation, processes, workflows, templates). Then, in lieu of my life goals, <strong>I’ll eventually switch to talking about coding, programming, algorithms, and more.</strong> Also, because of my love for hardware, <strong>I will also discuss Hardware topic every now and then</strong> (e.g., Challenges in Hardware Procurement, Improving Hardware Efficiency, Mitigating Rising Hardware Costs).</p>
+
+<p><em>My Favorite Quote that keeps me going when I’m facing strong challenges in my projects:</em></p>
+<blockquote>
+  <p>“But as I always say: If it were easy, anyone could do it. Because it’s hard, it’s meant for Intel”
+— Bob Swan (7th CEO of Intel)</p>
+</blockquote>
+
+<p>The same goes for you and any Aspiring Programmer, IT Support Technician or System Administrator. <strong>Don’t be scared of the difficulties that you’ll face, but be thankful for them: They are in front of you because you are the only one who can solve them!</strong></p>
+
+<p>Thanks for reading!</p>
+
+<p><em>Warm regards,</em><br />
+<em>Derek</em></p>]]></content><author><name></name></author><summary type="html"><![CDATA[The Greatest Blog Post I’ll Ever Make Hi, world. I am Derek Nnaji, a System Administrator &amp; Automation Expert! And, this is my very first blog post, which is all about informing you, my dear reader, of what my blog is about and why it is worth your time.]]></summary></entry></feed>

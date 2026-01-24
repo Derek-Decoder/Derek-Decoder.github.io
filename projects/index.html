@@ -9,10 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Derek C. Nnaji | Articles</title>
+    <title>Derek C. Nnaji | Projects</title>
     <meta name="author" content="Derek C. Nnaji" />
-    <meta name="description" content="My Website Where I Share Projects, Publications & Blog Posts.
-" />
+    <meta name="description" content="A Collection of Projects I've Made" />
     <meta name="keywords" content="jekyll, Nnaji, Derek, Blog, Portfolio, Projects, Publications" />
 
 
@@ -33,7 +32,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://derek-decoder.github.io//blog/">
+    <link rel="canonical" href="https://derek-decoder.github.io//projects/">
     
     <!-- Dark Mode -->
     
@@ -72,18 +71,18 @@
               </li>
               
               <!-- Blog -->
-              <li class="nav-item active">
+              <li class="nav-item ">
                 <a class="nav-link" href="/blog/">Blog</a>
               </li>
 
               <!-- Other pages -->
-              <li class="nav-item ">
-                <a class="nav-link" href="/projects/">Projects</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/projects/">Projects<span class="sr-only">(current)</span></a>
               </li>
 
               <!-- Toogle theme mode -->
-              <div class = "toggle-container">
-                <a id = "light-toggle">
+              <div class="toggle-container">
+                <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </a>
@@ -96,55 +95,110 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html  -->
+        <div class="post">
 
-  <div class="header-bar">
-    <h1>My Articles</h1>
-    <h2>My thoughts on Programming, Automation, and more.</h2>
-  </div>
+          <header class="post-header">
+            <h1 class="post-title">Projects</h1>
+            <p class="post-description">A Collection of Projects I've Made</p>
+          </header>
 
+          <article>
+            <!-- pages/projects.md -->
+<div class="projects">
+  <!-- Display categorized projects -->
+  <h2 class="category">Automation</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid">
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/1_project/">
+      <div class="card hoverable">
+<figure>
 
-  <ul class="post-list">
-    
+  <picture>
+    <!-- <source media="(max-width: 480px)" srcset="/assets/img/ssh_secure_server-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/ssh_secure_server-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/ssh_secure_server-1400.webp" />
+    -->
 
-    
-    
-    
-    
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/ssh_secure_server.jpg" alt="project thumbnail">
 
-    <li>
-      <h3>
-        
-          <a class="post-title" href="/blog/2026/announcement/">The Creation of What Will Be a Grand Tech Blog.</a>
-        
-      </h3>
-      <p></p>
-      <p class="post-meta"> 3 min read &nbsp; &middot; &nbsp;
-        January 17, 2026
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2026">
-          <i class="fas fa-calendar fa-sm"></i> 2026 </a>
+  </picture>
 
-          
+</figure>
 
-          
-    </p>
-    </li>
-
-    
-  </ul>
-
-  
-
+        <div class="card-body">
+          <h2 class="card-title">OpenSSH CA Scripts</h2>
+          <p class="card-text">This Encompasses Automating SSH Certificate Authority Configuration, Key Signing &amp; Revocation Lists.</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
 </div>
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/2_project/">
+      <div class="card hoverable">
+<figure>
+
+  <picture>
+    <!-- <source media="(max-width: 480px)" srcset="/assets/img/SMB_Image-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/SMB_Image-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/SMB_Image-1400.webp" />
+    -->
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/SMB_Image.png" alt="project thumbnail">
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title">SMB Client &amp; Server Scripts</h2>
+          <p class="card-text">This Involves Configuring SMB Clients &amp; Servers</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+  </div>
+  <h2 class="category">Software</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid">
+<!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/3_project/">
+      <div class="card hoverable">
+        <div class="card-body">
+          <h2 class="card-title">Obodo</h2>
+          <p class="card-text">An App I made For Data Backup, Classification &amp; Recovery.</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+  </div>
+</div>
+
+          </article>
+
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        &copy; Copyright 2026 Derek C. Nnaji. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme | Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+        © Copyright 2026 Derek C. Nnaji. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme | Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
 
       </div>
     </footer>
